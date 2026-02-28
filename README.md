@@ -22,4 +22,4 @@ Tools:
 * Excel
 
 Author:
-Nirmani Wanniarachchi
+W.A.K Nirmani
